@@ -1,0 +1,29 @@
+[
+  {
+    "id": "winch_scrapper",
+    "name": "Rusty Scrapper Winch",
+    "price": 0,
+    "pull_speed": 40.0,
+    "degradation_per_dive": 15.0,
+    "repair_cost_per_point": 10,
+    "green_zone_size": 25.0
+  },
+  {
+    "id": "winch_standard",
+    "name": "Standard Harbor Winch",
+    "price": 2500,
+    "pull_speed": 60.0,
+    "degradation_per_dive": 8.0,
+    "repair_cost_per_point": 40,
+    "green_zone_size": 35.0
+  },
+  {
+    "id": "winch_milspec",
+    "name": "Titanium Mil-Spec Winch",
+    "price": 15000,
+    "pull_speed": 100.0,
+    "degradation_per_dive": 2.0,
+    "repair_cost_per_point": 150,
+    "green_zone_size": 50.0
+  }
+]

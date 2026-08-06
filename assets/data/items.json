@@ -1,0 +1,20 @@
+[
+  {
+    "id": "scrap_metal",
+    "name": "Rusted Scrap",
+    "price": 150,
+    "weight": 10
+  },
+  {
+    "id": "container_doors",
+    "name": "Shipping Container Doors",
+    "price": 800,
+    "weight": 30
+  },
+  {
+    "id": "cartel_lockbox",
+    "name": "Cartel Lockbox",
+    "price": 5000,
+    "weight": 80
+  }
+]
